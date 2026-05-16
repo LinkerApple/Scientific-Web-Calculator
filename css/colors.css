@@ -1,0 +1,17 @@
+:root {
+  --color-hfc-bg: #bf221b;
+  --color-hfc-text: #ffffff;
+  --color-main-bg: #ffffff;
+  --color-main-text: #000000;
+  --color-eq-btn: #00BFFF;
+  --color-eq-btn-hover: #000099;
+  --color-eq-btn-active: #000066;
+  --color-eq-btn-hover-text: #ffffff;
+  --color-eq-btn-active-text: #ffffff;
+  --color-eq-btn-hover-border: #ffffff;
+  --color-eq-btn-active-border: #ffffff;
+  --color-default-btn: #ffffff;
+  --color-default-btn-hover: #ddd;
+  --color-default-btn-active: #aaa;
+  --color-default-btn-border: #000000;
+}
